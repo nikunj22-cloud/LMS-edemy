@@ -192,7 +192,6 @@ This project is licensed under the [MIT License](LICENSE).
 Give a ⭐ if you like this project!
 
 ---
-Made with ❤️ by Gyan Pratap Singh
 
 ### ⭐ Show Some Love!
 
